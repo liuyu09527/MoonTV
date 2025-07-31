@@ -85,5 +85,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "lsbzy": {
+  "api": "https://apilsbzy1.com/api.php/provide/vod",
+  "name": "绿色标准资源"
+    }
   }
 }
